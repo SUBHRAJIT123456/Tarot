@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "john@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": "6476",
+      "email": "g123@gmail.com",
+      "password": "123456",
+      "firstName": "Rahul",
+      "lastName": "Das"
+    },
+    {
+      "id": "099b",
+      "email": "hd@gmail.com",
+      "password": "123456",
+      "firstName": "ra",
+      "lastName": "saha"
+    },
+    {
+      "id": "64b9",
+      "email": "jack@gmail.com",
+      "password": "123456",
+      "firstName": "rahul",
+      "lastName": "das"
+    },
+    {
+      "id": "4c71",
+      "email": "united@gmail.com",
+      "password": "123456",
+      "firstName": "moksh",
+      "lastName": "das"
+    },
+    {
+      "id": "8362",
+      "email": "mohan@gmail.com",
+      "password": "123456",
+      "firstName": "mohan",
+      "lastName": "das"
+    }
+  ],
+  "readings": [
+    {
+      "id": "1",
+      "type": "relationship",
+      "message": "You will find harmony in your relationships."
+    },
+    {
+      "id": "2",
+      "type": "career",
+      "message": "A new opportunity is coming your way."
+    },
+    {
+      "id": "3",
+      "type": "health",
+      "message": "Focus on self-care and wellness."
+    }
+  ]
+}
